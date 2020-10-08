@@ -1,7 +1,5 @@
 # ADLCVP
 
-[Lecture Videos](https://tinyurl.com/cvlpieas)
-
 Workshop on Applied Deep Learning for Computer Vision with PyTorch is an introductory course on the tools used in deep learning and computer vision.
 
 ## Goals
@@ -30,6 +28,10 @@ After taking this course you should be:
 14. PyTorch 4 (GAN with attention)
 15. tmux, ssh, scp, sshfs, glances, htop, nvidia-smi
 
+## Lecture Videos
+
+Lectures videos will be available soon on our YouTube channel [here](https://tinyurl.com/cvlpieas).
+
 ## How to Open Lectures
 
 You will first have to download this repo. You can do this by either cloning this repo by typing:
@@ -51,7 +53,7 @@ then you have to run the jupyter server inside the folder. You can do it by typi
 ```
 jupyter notebook
 ```
-Now you can browse the files inside this repo. Open the "Lessosn" folder and select the lesson you want to open.
+Now you can browse the files inside this repo. Open the "Lessons" folder and select the lesson you want to open.
 
 ## Instructors
 

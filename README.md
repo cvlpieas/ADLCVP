@@ -34,5 +34,5 @@ After taking this course you should be:
 
 ## Instructors
 
-- Hassan Askary - [Website](https://hassanaskary.com) / [GitHub](https://github.com/hassanaskary) / [LinkedIn](https://linkedin.com/in/hassanaskary)
 - Umar Farooq
+- Hassan Askary - [Website](https://hassanaskary.com) / [GitHub](https://github.com/hassanaskary) / [LinkedIn](https://linkedin.com/in/hassanaskary)

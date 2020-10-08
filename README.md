@@ -30,9 +30,9 @@ After taking this course you should be:
 
 ## Lecture Videos
 
-[YouTube](tinyurl.com/cvlpieas)
+[YouTube](https://tinyurl.com/cvlpieas)
 
 ## Instructors
 
-- Hassan Askary - [Website](hassanaskary.com) / [GitHub](github.com/hassanaskary) / [LinkedIn](linkedin.com/in/hassanaskary)
+- Hassan Askary - [Website](https://hassanaskary.com) / [GitHub](https://github.com/hassanaskary) / [LinkedIn](https://linkedin.com/in/hassanaskary)
 - Umar Farooq

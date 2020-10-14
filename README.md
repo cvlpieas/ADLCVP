@@ -57,5 +57,5 @@ Now you can browse the files inside this repo. Open the "Lessons" folder and sel
 
 ## Instructors
 
-- Umar Farooq
+- Umar Farooq - [GitHub](https://github.com/umar467)
 - Hassan Askary - [Website](https://hassanaskary.com) / [GitHub](https://github.com/hassanaskary) / [LinkedIn](https://linkedin.com/in/hassanaskary)
